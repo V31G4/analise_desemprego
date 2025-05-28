@@ -20,7 +20,7 @@ Os dados utilizados neste exemplo são simulados, mas representam a estrutura de
 ## 📈 Objetivo
 Exercitar a análise e visualização de dados temporais (evolução ao longo dos anos) por unidade federativa, usando gráficos de linha.
 
-## 📷 Exemplo de gráfico gerado
+## 📷 Gráfico gerado
 
 ![Exemplo de Gráfico](grafico.png)
 
